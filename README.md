@@ -1,6 +1,4 @@
 # ColdChain+ (ESP32 + LTE + BLE + GPS)
-Powered by LILYGO® TTGO T-A7670G, MPU6050, Bluetooth Sensors, and GPS
-Data is sent via LTE (SIM7600) to an MQTT broker for cloud processing.
 ## Overview
 This project is an IoT device that collects:
 * GPS location (using internal GPS or SIM-based location fallback)
